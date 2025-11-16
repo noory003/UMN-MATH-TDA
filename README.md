@@ -1,2 +1,2 @@
 # UMN-MATH-TDA
-This is a repository to host a project to throw TDA at voter demographic and geographic information. 
+This is a repository to host a project to use TDA on demographic and geographic information. 
